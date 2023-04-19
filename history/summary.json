@@ -22,7 +22,7 @@
     "url": "https://www.yumbo.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.yumbo.gov.co.ico",
     "slug": "portal-web-alcaldia-de-yumbo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1300,
     "timeMonth": 1300,
     "timeYear": 1300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-19": 0
+    }
   },
   {
     "name": "Hacker News",

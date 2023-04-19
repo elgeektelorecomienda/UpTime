@@ -22,19 +22,19 @@
     "url": "https://www.yumbo.gov.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.yumbo.gov.co.ico",
     "slug": "portal-web-alcaldia-de-yumbo",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1314,
-    "timeDay": 1357,
-    "timeWeek": 1314,
-    "timeMonth": 1314,
-    "timeYear": 1314,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 2044,
+    "timeDay": 4260,
+    "timeWeek": 2044,
+    "timeMonth": 2044,
+    "timeYear": 2044,
     "dailyMinutesDown": {
-      "2023-04-19": 15
+      "2023-04-19": 35
     }
   },
   {

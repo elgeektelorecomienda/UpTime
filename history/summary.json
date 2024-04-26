@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 146,
-    "timeWeek": 110,
-    "timeMonth": 115,
+    "timeDay": 255,
+    "timeWeek": 134,
+    "timeMonth": 121,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2023-09-21": 18
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yumbo.gov.co.ico",
     "slug": "portal-web-alcaldia-de-yumbo",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.41%",
-    "time": 1777,
-    "timeDay": 1017,
-    "timeWeek": 1890,
-    "timeMonth": 1437,
+    "time": 1775,
+    "timeDay": 1220,
+    "timeWeek": 1939,
+    "timeMonth": 1443,
     "timeYear": 1765,
     "dailyMinutesDown": {
       "2024-04-23": 27,
@@ -59,8 +59,7 @@
       "2023-07-12": 303,
       "2023-05-26": 57,
       "2023-05-19": 36,
-      "2023-04-28": 17,
-      "2023-04-27": 37
+      "2023-04-28": 17
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 368,
-    "timeDay": 462,
-    "timeWeek": 370,
-    "timeMonth": 324,
+    "time": 367,
+    "timeDay": 107,
+    "timeWeek": 328,
+    "timeMonth": 317,
     "timeYear": 370,
     "dailyMinutesDown": {
       "2024-01-10": 117,

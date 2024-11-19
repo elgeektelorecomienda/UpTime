@@ -1,7 +1,7 @@
 url: https://www.yumbo.gov.co
-status: up
-code: 200
-responseTime: 1528
-lastUpdated: 2024-11-19T11:47:07.085Z
+status: down
+code: 502
+responseTime: 253
+lastUpdated: 2024-11-19T16:40:18.509Z
 startTime: 2023-04-13T01:05:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>

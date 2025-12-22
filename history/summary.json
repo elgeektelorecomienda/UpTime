@@ -11,9 +11,9 @@
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.98%",
     "time": 116,
-    "timeDay": 82,
+    "timeDay": 87,
     "timeWeek": 132,
-    "timeMonth": 235,
+    "timeMonth": 234,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2025-12-19": 44,
@@ -28,15 +28,15 @@
     "slug": "portal-web-alcaldia-de-yumbo",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.71%",
-    "time": 1590,
-    "timeDay": 1470,
-    "timeWeek": 1947,
-    "timeMonth": 1914,
-    "timeYear": 1539,
+    "time": 1591,
+    "timeDay": 1392,
+    "timeWeek": 1880,
+    "timeMonth": 1915,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2025-12-20": 19,
       "2025-12-15": 21,
@@ -65,8 +65,7 @@
       "2025-01-22": 21,
       "2025-01-21": 16,
       "2025-01-14": 23,
-      "2024-12-24": 36,
-      "2024-12-22": 18
+      "2024-12-24": 36
     }
   },
   {
@@ -81,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 367,
-    "timeWeek": 292,
-    "timeMonth": 287,
-    "timeYear": 308,
+    "timeDay": 97,
+    "timeWeek": 289,
+    "timeMonth": 279,
+    "timeYear": 307,
     "dailyMinutesDown": {
       "2025-10-10": 26
     }
